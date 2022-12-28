@@ -2,6 +2,7 @@
 
 ## Description
 Collection of payloads that send grabbed browser passwords to target Discord Sever.
+
 **NOTE: For educational purposes only.**
 
 ### Credits
