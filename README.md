@@ -3,6 +3,10 @@
 ## Description
 Collection of payloads that send grabbed browser passwords to target Discord Sever.
 
+### Features
+* Browsers: Chrome, Edge, Opera
+* Sending methods: Telegram, Discord
+
 **NOTE: For educational purposes only.**
 
 ### Credits
